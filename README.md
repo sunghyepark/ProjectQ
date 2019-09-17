@@ -1,7 +1,26 @@
 # ProjectQ
 
-https://projectq.readthedocs.io/en/latest/tutorials.html : 설치
+<대표 홈페이지 >
+https://projectq.ch/
 
+<git-hub >
 https://github.com/ProjectQ-Framework/ProjectQ
 
-https://projectq.readthedocs.io/en/latest/examples.html : 예시들
+<tutorial>
+https://projectq.readthedocs.io/en/latest/tutorials.html
+
+<예시들>
+https://projectq.readthedocs.io/en/latest/examples.html
+
+# 1. 설치
+
+- python -m pip install --user projectq
+- clone) 
+
+
+# 2. 따라하기
+
+## 1) ㅇ 
+
+- ㄹ
+  - ㄹ
