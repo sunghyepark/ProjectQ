@@ -22,7 +22,7 @@ https://projectq.readthedocs.io/en/latest/examples.html
 
 # 2. 따라하기
 
-## 1) ㅇ 
+## 1) 
 
-- ㄹ
-  - ㄹ
+- 
+  - 
