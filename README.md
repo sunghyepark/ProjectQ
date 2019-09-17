@@ -15,7 +15,9 @@ https://projectq.readthedocs.io/en/latest/examples.html
 # 1. 설치
 
 - python -m pip install --user projectq
-- clone) 
+- clone) git clone https://github.com/ProjectQ-Framework/ProjectQ.git
+- cd /ProjectQ
+- python -m pip install --user .
 
 
 # 2. 따라하기
